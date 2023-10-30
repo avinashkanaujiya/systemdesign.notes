@@ -85,9 +85,17 @@
           "type": "recent-files",
           "state": {}
         }
+      },
+      {
+        "id": "c5df6c8eace79ddc",
+        "type": "leaf",
+        "state": {
+          "type": "tagfolder-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 6
   },
   "right": {
     "id": "639cf20dd82a676c",
@@ -155,7 +163,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
   "active": "062c9ea66b95dc9f",

@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "tags": "tags",
+    "class": "multitext",
+    "date": "date",
+    "search-query": "multitext",
+    "marks": "number",
+    "syllabus-link": "multitext",
+    "resources": "multitext",
+    "cssclasses": "multitext",
+    "paycycle": "text",
+    "updated": "date",
+    "published": "date",
+    "template": "date"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "accentColor": "#707070",
+  "cssTheme": "Minimal",
+  "baseFontSize": 18,
+  "theme": "moonstone",
+  "enabledCssSnippets": [],
+  "baseFontSizeAction": false,
+  "interfaceFontFamily": "Recursive,Recursive Casual,Cantarell,Helvetica Neue",
+  "textFontFamily": "Recursive,Recursive Casual,Cantarell,Lora,Noto Sans Kannada",
+  "monospaceFontFamily": "Recursive Monospace,Source Code Pro"
+}

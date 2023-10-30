@@ -1,0 +1,11 @@
+{
+  "accentColor": "#5c5c5c",
+  "cssTheme": "Minimal",
+  "showViewHeader": true,
+  "theme": "moonstone",
+  "baseFontSize": 18,
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "hide-metatable-metadata-in-notes"
+  ]
+}

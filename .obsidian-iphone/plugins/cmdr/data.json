@@ -1,0 +1,53 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "whisper:start-stop-recording",
+      "icon": "music",
+      "name": "Whisper: Start/stop recording",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-spaced-repetition:srs-note-review-open-note",
+      "icon": "credit-card",
+      "name": "Spaced Repetition: Open a note for review",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:close",
+      "icon": "lucide-x",
+      "name": "Close current tab",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Review flashcards",
+      "Metatable: Toggle Metatable sidebar",
+      "Open homepage",
+      "Create new drawing"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": true,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 5
+  }
+}

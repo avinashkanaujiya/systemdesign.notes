@@ -1,0 +1,25 @@
+{
+  "presetFields": [],
+  "fileClassQueries": [],
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [
+    "date",
+    "obsidianUIMode"
+  ],
+  "classFilesPath": "fileClasses/",
+  "isAutosuggestEnabled": true,
+  "fileClassAlias": "class",
+  "settingsVersion": 3,
+  "globalFileClass": "globalClass",
+  "firstDayOfWeek": 0,
+  "enableLinks": false,
+  "enableTabHeader": false,
+  "enableEditor": false,
+  "enableBacklinks": false,
+  "enableStarred": false,
+  "enableFileExplorer": false,
+  "enableSearch": false,
+  "buttonIcon": "clipboard-list",
+  "tableViewMaxRecords": 100,
+  "frontmatterListDisplay": "asArray"
+}

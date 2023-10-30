@@ -1,0 +1,11 @@
+{
+  "accentColor": "#bababa",
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "nativeMenus": false,
+  "baseFontSize": 16,
+  "enabledCssSnippets": [],
+  "interfaceFontFamily": "recursive,cantarell,fira code,noto sans,roboto",
+  "textFontFamily": "recursive,cantarell,fira code",
+  "monospaceFontFamily": "Source Code Pro"
+}

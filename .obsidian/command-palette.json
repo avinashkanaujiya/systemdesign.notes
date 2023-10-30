@@ -1,0 +1,9 @@
+{
+  "pinned": [
+    "workspace:edit-file-title",
+    "digitalgarden:dg-open-publish-modal",
+    "editor:toggle-source",
+    "editor:attach-file",
+    "obsidian-vault-changelog:update"
+  ]
+}

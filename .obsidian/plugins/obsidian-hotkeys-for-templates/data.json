@@ -1,0 +1,15 @@
+{
+  "files": [],
+  "templaterFiles": [
+    "UPSC Note.md"
+  ],
+  "newFileTemplates": [
+    {
+      "folder": "/",
+      "path": "UPSC Note.md",
+      "plugin": "templater"
+    }
+  ],
+  "openNewFileTemplateInNewPane": true,
+  "useNewFileTemplateOnFileCreation": true
+}

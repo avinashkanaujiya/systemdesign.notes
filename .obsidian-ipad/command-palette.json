@@ -1,0 +1,9 @@
+{
+  "pinned": [
+    "omnisearch:show-modal",
+    "switcher:open",
+    "bookmarks:open",
+    "templater-obsidian:create-new-note-from-template",
+    "templater-obsidian:insert-templater"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "enableOfflineChat": false,
+  "resultsCount": 6,
+  "khojUrl": "http://127.0.0.1:8000",
+  "connectedToBackend": false,
+  "autoConfigure": true,
+  "openaiApiKey": "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"
+}

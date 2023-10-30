@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "type": "search",
+      "ctime": 1689099891866,
+      "query": "tag:#search-query",
+      "title": "Search"
+    },
+    {
+      "type": "search",
+      "ctime": 1689147979933,
+      "query": "tag:#idea",
+      "title": "Ideas"
+    },
+    {
+      "type": "file",
+      "ctime": 1690954067352,
+      "path": "List of Daily Current Affairs PDF.md"
+    }
+  ]
+}

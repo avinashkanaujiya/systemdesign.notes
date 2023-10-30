@@ -1,0 +1,19 @@
+embeddings.csv
+
+# Ignore Smart Connections folder because embeddings file is large and updated frequently
+.smart-connections/
+
+.obsidian/plugins/update-time-on-edit/data.json
+.obsidian/plugins/home-tab/data.json
+
+.obsidian/workspace.json
+.obsidian/workspace.json
+.obsidian/plugins/update-time-on-edit/data.json
+.obsidian/workspace.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/plugins/update-time-on-edit/data.json
+changelog.md
+.obsidian-iphone/plugins/recent-files-obsidian/data.json
+*.pdf
+.obsidian-iphone/workspace-mobile.json
+.obsidian/plugins/obsidian-remember-file-state/states.json

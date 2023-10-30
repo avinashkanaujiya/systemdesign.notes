@@ -1,0 +1,15 @@
+{
+  "expansionMode": "expanded",
+  "ignoreNulls": true,
+  "nullValue": "",
+  "skipKey": "metatable",
+  "filterKeys": [
+    "metatable",
+    "frontmatter",
+    "obsidianUIMode"
+  ],
+  "filterMode": "ignore",
+  "autolinks": true,
+  "naked": false,
+  "theme": "dark"
+}

@@ -1,0 +1,10 @@
+{
+  "minimal-style@@window-title-off": false,
+  "minimal-style@@row-lines": true,
+  "minimal-style@@col-lines": true,
+  "minimal-style@@table-lines": true,
+  "minimal-style@@table-numbers": true,
+  "minimal-style@@table-nowrap": true,
+  "minimal-style@@file-header-visibility": "minimal-tab-title-hidden",
+  "minimal-style@@pdf-invert-dark": false
+}

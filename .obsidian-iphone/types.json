@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Test": "checkbox",
+    "paycycle": "text",
+    "bimonthly-cycle": "text",
+    "updated": "date",
+    "created": "date"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "pinned": [
+    "whisper:start-stop-recording",
+    "templater-obsidian:insert-templater",
+    "editor:open-search",
+    "outline:open",
+    "templater-obsidian:create-new-note-from-template"
+  ]
+}

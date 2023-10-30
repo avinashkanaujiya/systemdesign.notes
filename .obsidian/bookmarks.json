@@ -1,0 +1,155 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "path": "Contents.md",
+      "ctime": 1684405278432
+    },
+    {
+      "type": "file",
+      "path": "pages/October.md",
+      "ctime": 1684405278432
+    },
+    {
+      "type": "search",
+      "ctime": 1689099560139,
+      "query": "tag:#search-query",
+      "title": "Search"
+    },
+    {
+      "type": "group",
+      "ctime": 1688324737802,
+      "items": [
+        {
+          "type": "search",
+          "ctime": 1689407931074,
+          "query": "tag:upsc tag:anthropology -path:Templates",
+          "title": "Anthropology"
+        },
+        {
+          "type": "search",
+          "ctime": 1689413744125,
+          "query": "tag:#index tag:#upsc -path:Templates tag:#strategies",
+          "title": "Strategy"
+        },
+        {
+          "type": "search",
+          "ctime": 1688383649180,
+          "query": "tag:#checklist tag:#upsc",
+          "title": "Checklists "
+        },
+        {
+          "type": "search",
+          "ctime": 1688402619188,
+          "query": "tag:#index tag:#upsc -path:Templates",
+          "title": "Indexes"
+        }
+      ],
+      "title": "UPSC"
+    },
+    {
+      "type": "group",
+      "ctime": 1688383670531,
+      "items": [
+        {
+          "type": "search",
+          "ctime": 1686579805525,
+          "query": "tag:#movie",
+          "title": "Movies"
+        },
+        {
+          "type": "search",
+          "ctime": 1686578901929,
+          "query": "tag:#tvshow",
+          "title": "TV Shows"
+        }
+      ],
+      "title": "Entertainment"
+    },
+    {
+      "type": "group",
+      "ctime": 1688574489873,
+      "items": [
+        {
+          "type": "search",
+          "ctime": 1686949348844,
+          "query": "tag:#samsung-task",
+          "title": "Samsung Tasks Suggestions"
+        },
+        {
+          "type": "search",
+          "ctime": 1688574585122,
+          "query": "tag:#samsung",
+          "title": "Utility "
+        }
+      ],
+      "title": "Samsung"
+    },
+    {
+      "type": "search",
+      "ctime": 1686949102053,
+      "query": "tag:#skills",
+      "title": "Skills"
+    },
+    {
+      "type": "search",
+      "ctime": 1687171105296,
+      "query": "tag:#periodic-checks",
+      "title": "Periodic Checks"
+    },
+    {
+      "type": "search",
+      "ctime": 1687262958741,
+      "query": "tag:#holiday",
+      "title": "Office Holidays"
+    },
+    {
+      "type": "search",
+      "ctime": 1687263957989,
+      "query": "tag:#checklist",
+      "title": "Checklists "
+    },
+    {
+      "type": "search",
+      "ctime": 1687689141440,
+      "query": "tag:#idea",
+      "title": "Ideas"
+    },
+    {
+      "type": "search",
+      "ctime": 1687789717464,
+      "query": "tag:#periodic-checks",
+      "title": "Periodic Checks"
+    },
+    {
+      "type": "search",
+      "ctime": 1687850350330,
+      "query": "tag:#home-task",
+      "title": "Home Tasks"
+    },
+    {
+      "type": "search",
+      "ctime": 1687977987038,
+      "query": "tag:#dataview",
+      "title": "Dataviews"
+    },
+    {
+      "type": "search",
+      "ctime": 1688361676211,
+      "query": "tag:#feature-request",
+      "title": "Feature Requests"
+    },
+    {
+      "type": "search",
+      "ctime": 1690047178541,
+      "query": "-path:Readwise -path:Attachments -path:Templates",
+      "title": "Search"
+    },
+    {
+      "type": "search",
+      "ctime": 1691801432737,
+      "query": "-tag:#upsc -path:Readwise -path:assets",
+      "title": "Normal Random Walk"
+    }
+  ]
+}

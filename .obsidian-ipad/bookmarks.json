@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1689505150036,
+      "items": [
+        {
+          "type": "search",
+          "ctime": 1689505123616,
+          "query": "tag:#index tag:#upsc -path:Templates tag:#strategies",
+          "title": "Strategies"
+        },
+        {
+          "type": "search",
+          "ctime": 1689505037526,
+          "query": "tag:upsc tag:anthropology -path:Templates",
+          "title": "Anthropology"
+        },
+        {
+          "type": "search",
+          "ctime": 1688930073429,
+          "query": "tag:upsc tag:dataview tag:index -path: Templates ",
+          "title": "Indexes"
+        },
+        {
+          "type": "search",
+          "ctime": 1689505201783,
+          "query": "tag:#checklist tag:#upsc",
+          "title": "Checklists"
+        }
+      ],
+      "title": "UPSC"
+    },
+    {
+      "type": "search",
+      "ctime": 1689175073813,
+      "query": "tag:#search-query",
+      "title": "Search"
+    }
+  ]
+}

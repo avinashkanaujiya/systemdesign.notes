@@ -1,0 +1,10 @@
+{
+  "popup": true,
+  "rmDismiss": true,
+  "autoEmbedWhenEmpty": false,
+  "primary": "local",
+  "backup": "jsonlink",
+  "inPlace": true,
+  "debug": false,
+  "delay": 0
+}
